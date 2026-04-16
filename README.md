@@ -8,5 +8,5 @@
 <h2>Languages and Tools</h2>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=terraform,go,docker,aws,grafana,githubactions,linux,neovim" />
+  <img src="https://skillicons.dev/icons?i=terraform,aws,go,githubactions,grafana,neovim,docker,linux" />
 </a>
