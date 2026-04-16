@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=100&color=38C2FF&center=true&width=435&lines=Hi%2C+I%27m+Koki+%F0%9F%91%8B;Welcome+to+my+page+%F0%9F%9A%80" alt="Typing SVG" /></a>
+
 ## Hi there 👋
 
 <!--
