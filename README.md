@@ -10,4 +10,3 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=terraform,go,docker,aws,grafana,githubactions,linux,neovim" />
 </a>
-<img src="ghostty.jpeg" width="48" height="48" />
