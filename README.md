@@ -2,8 +2,8 @@
 
 <h1>About Me</h1>
 
-⚙️ I'm a freelance SRE engineer passionate about building reliable and scalable infrastructure.
-🌱 I recently started contributing to open source projects.
+- :gear: &nbsp;I'm a freelance **SRE engineer** passionate about building reliable and scalable infrastructure.
+- :seedling: &nbsp;I recently started contributing to **open source** projects.
 
 <!--
 **KokiKura/KokiKura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
