@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-- 🛠️: &nbsp;I'm a freelance SRE engineer passionate about building reliable and scalable infrastructure.
+- :hammer_and_wrench: &nbsp;I'm a freelance SRE engineer passionate about building reliable and scalable infrastructure.
 - :seedling: &nbsp;I recently started contributing to open source projects.
 
 <h2>Languages and Tools</h2>
