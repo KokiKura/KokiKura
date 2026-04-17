@@ -2,11 +2,12 @@
 
 <h2>About me</h2>
 
-- :gear: &nbsp;I'm a freelance **SRE engineer** passionate about building reliable and scalable infrastructure.
-- :seedling: &nbsp;I recently started contributing to **open source** projects.
+- 🛠️: &nbsp;I'm a freelance SRE engineer passionate about building reliable and scalable infrastructure.
+- :seedling: &nbsp;I recently started contributing to open source projects.
 
 <h2>Languages and Tools</h2>
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=terraform,aws,go,githubactions,grafana,neovim,docker,linux" />
 </a>
+
