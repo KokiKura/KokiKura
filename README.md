@@ -5,7 +5,7 @@
 :hammer_and_wrench: **Freelance SRE engineer** | :seedling: **Vim beginner**
 
 ![Terraform](https://img.shields.io/badge/-Terraform-844FEC?style=flat-square&logo=terraform&logoColor=white)
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F05A28?style=flat-square&logo=grafana&logoColor=white)
