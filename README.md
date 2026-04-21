@@ -5,6 +5,12 @@
 - :hammer_and_wrench: &nbsp;I'm a freelance SRE engineer passionate about building reliable and scalable infrastructure.
 - :seedling: &nbsp;I recently started contributing to open source projects.
 
+<h2>Status</h2>
+<p align="left">
+  <img alt="Top Langs" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokiKura&layout=donut&show_icons=true&theme=radical" />
+  <img alt="github stats" height="195px" src="https://github-readme-stats.vercel.app/api?username=KokiKura&show_icons=true&theme=radical" />
+  <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokiKura&theme=2077">
+
 <h2>Languages and Tools</h2>
 
 <a href="https://skillicons.dev">
