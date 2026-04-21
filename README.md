@@ -7,13 +7,12 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-844FEC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F05A28?style=flat-square&logo=grafana&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PydanticAI](https://img.shields.io/badge/-PydanticAI-FF1493?style=flat-square&logo=pydantic&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Ghostty](https://img.shields.io/badge/-Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
-![Ghostty](https://img.shields.io/badge/-Ghostty-555555?style=flat-square&logo=ghostty&logoColor=white)
 
 <h2>Stats</h2>
 <img alt="contributions" height="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KokiKura&theme=2077">
