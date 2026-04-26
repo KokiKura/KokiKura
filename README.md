@@ -11,7 +11,7 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PydanticAI](https://img.shields.io/badge/-PydanticAI-FF1493?style=flat-square&logo=pydantic&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![Ghostty](https://img.shields.io/badge/-Ghostty-000000?style=flat-square&logo=ghostty&logoColor=white)
+![WezTerm](https://img.shields.io/badge/-WezTerm-4E49EE?style=flat-square&logo=wezterm&logoColor=white)
 ![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 
 <h2>Stats</h2>
